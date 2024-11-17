@@ -23,10 +23,8 @@ public class TaskScheduler {
     @Async
     public void checkTasksWithExpiredDeadline() {
         List<Task> tasks = taskService.getExpiredTasks();
-        System.out.println(tasks.size());
 
         if (tasks == null || tasks.isEmpty()) {
-            log.info("No tasks found");
             return;
         }
 
