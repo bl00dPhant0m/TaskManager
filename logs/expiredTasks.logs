@@ -1,0 +1,15 @@
+2024-11-20T10:53:53.441+03:00  INFO 2676 --- [TaskManger] [task-1] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:54:03.370+03:00  INFO 2676 --- [TaskManger] [task-2] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:54:13.378+03:00  INFO 2676 --- [TaskManger] [task-3] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:54:23.381+03:00  INFO 2676 --- [TaskManger] [task-4] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:54:33.376+03:00  INFO 2676 --- [TaskManger] [task-5] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:54:43.377+03:00  INFO 2676 --- [TaskManger] [task-6] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:54:53.366+03:00  INFO 2676 --- [TaskManger] [task-7] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:55:03.377+03:00  INFO 2676 --- [TaskManger] [task-8] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:55:13.372+03:00  INFO 2676 --- [TaskManger] [task-9] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:55:23.373+03:00  INFO 2676 --- [TaskManger] [task-10] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:55:33.379+03:00  INFO 2676 --- [TaskManger] [task-11] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:55:43.370+03:00  INFO 2676 --- [TaskManger] [task-12] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:55:53.378+03:00  INFO 2676 --- [TaskManger] [task-13] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:56:03.367+03:00  INFO 2676 --- [TaskManger] [task-14] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
+2024-11-20T10:56:13.370+03:00  INFO 2676 --- [TaskManger] [task-15] o.e.taskmanager.scheduler.TaskScheduler  : Task(id=1, name=Важная задача, deadline=2024-11-17T15:22:40) с истекшим дедлайном
